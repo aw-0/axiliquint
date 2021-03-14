@@ -2,7 +2,7 @@
 
 👋 Hiya! This is my personal website, built with NuxtJS.
 
-Will update soon with the URL.
+Will this one completed with the URL!
 
 ## Build Setup
 
