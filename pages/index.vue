@@ -8,7 +8,7 @@
       <div class="h-px magical-bg mt-10"></div>
     </div>
     <div class="w-full mx-auto pb-2">
-      <h1 class="text-2xl text-center text-white font-semibold">Tech</h1>
+      <h1 class="text-2xl text-center text-white font-semibold">My Tools</h1>
       <div class="md:flex items-center justify-center">
         <div class="mx-4 mt-4 bg-primary rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
             <p class="text-center"><i class="fab fa-vuejs text-white my-2 text-8xl"></i></p>
