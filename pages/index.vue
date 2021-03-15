@@ -21,7 +21,7 @@
             <p class="px-2 pt-2 text-white text-center m-auto">Fast and easy to write, Python is my favorite language</p>
         </div>
         <div class="mx-4 mt-4 bg-primary rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
-            <p class="mx-auto"><img src="@/assets/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p>
+            <p class="mx-auto"><img src="@/assets/images/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p>
             <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">Firebase</h1>
             <p class="px-2 pt-2 text-white text-center m-auto">The best PaaS and DBaaS, Firebase</p>
         </div>
@@ -36,7 +36,7 @@
       <div class="h-px magical-bg mt-7"></div>
     </div>
     <div class="w-full mx-auto pb-2">
-      <h1 class="text-2xl text-center text-white font-semibold">Trusted by 1,000,000+, built by 1</h1>
+      <h1 class="text-2xl text-center text-white font-semibold">Trusted by 1,000,000+</h1>
       <div class="sm:flex items-center justify-center">
         <a href="https://www.roblox.com/groups/3955051/Foxzies-Productions#!/about" target="_blank" class="sm:mx-auto lg:mx-4"><img src="@/assets/clients/foxzie.png" width="200px" height="150px" class="mt-4 px-4 py-2 mx-auto" /></a>
         <a href="https://koal.us" target="_blank" class="sm:mx-auto lg:mx-4"><img src="@/assets/clients/koal.svg" width="200px" height="150px" class="svg-white mt-4 px-4 py-2 mx-auto" /></a>
