@@ -3,6 +3,9 @@
     <div class="w-full mx-auto text-left mt-10">
       <h1 class="text-4xl text-white font-extrabold">👋 Hi there, nice to meet you.</h1>
       <h2 class="text-3xl text-white font-semibold mt-4">I'm axiliquint, a <span class="font-extrabold magical-gradient">Full-Stack Developer and Video Editor</span>.</h2>
+      <div class="relative z-10 block h-8 w-8 rounded-full overflow-hidden border-2 border-gray-600 focus:outline-none focus:border-white">
+            <img class="" src="@/assets/images/newRobloxPfp.png" alt="Your avatar">
+      </div>
     </div>
     <div class="mb-4">
       <div class="h-px magical-bg mt-10"></div>
@@ -11,22 +14,22 @@
       <h1 class="text-2xl text-center text-white font-semibold">My Tools</h1>
       <div class="md:flex items-center justify-center">
         <div class="mx-4 mt-4 bg-primary rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
-            <p class="text-center"><i class="fab fa-vuejs text-white my-2 text-8xl"></i></p>
+            <a href="https://v3.vuejs.org" target="_blank"><p class="text-center"><i class="fab fa-vuejs text-white my-2 text-8xl"></i></p></a>
             <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">VueJS</h1>
             <p class="px-2 pt-2 text-white text-center m-auto">VueJS is my web framework of choice</p>
         </div>
         <div class="mx-4 mt-4 bg-primary rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
-            <p class="text-center"><i class="fab fa-python text-white my-2 text-8xl"></i></p>
+            <a href="https://python.org" target="_blank"><p class="text-center"><i class="fab fa-python text-white my-2 text-8xl"></i></p></a>
             <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">Python</h1>
             <p class="px-2 pt-2 text-white text-center m-auto">Fast and easy to write, Python is my favorite language</p>
         </div>
         <div class="mx-4 mt-4 bg-primary rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
-            <p class="mx-auto"><img src="@/assets/images/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p>
+            <a href="https://firebase.google.com" target="_blank"><p class="mx-auto"><img src="@/assets/images/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p></a>
             <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">Firebase</h1>
             <p class="px-2 pt-2 text-white text-center m-auto">The best PaaS and DBaaS, Firebase</p>
         </div>
         <div class="mx-4 mt-4 bg-primary rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
-            <p class="text-center"><i class="fas fa-film text-white my-2 text-8xl"></i></p>
+            <a href="https://www.apple.com/final-cut-pro/" target="_blank"><p class="text-center"><i class="fas fa-film text-white my-2 text-8xl"></i></p></a>
             <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">Final Cut Pro X</h1>
             <p class="px-2 pt-2 text-white text-center m-auto">Robust and powerful, Final Cut Pro X is the video editor I use</p>
         </div>
