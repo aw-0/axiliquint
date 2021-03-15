@@ -1,6 +1,6 @@
 <template>
     <div>
-        Test
+        Insert Koal Client Stuff here
     </div>
 </template>
 
