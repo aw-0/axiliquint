@@ -1,10 +1,8 @@
 <template>
     <header class="bg-gray-800 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3">
         <div class="flex items-center justify-between px-4 py-3 sm:p-0">
-        <div>
-            <a href="/"><img class="rounded-full h-10" src="@/assets/images/newRobloxPfp.png" alt="axiliquint"></a>
-        </div>
-        <h1 class="ml-4 text-xl text-white font-semibold">axiliquint</h1>
+        <a class="flex" href="/"><img class="rounded-full h-10" src="@/assets/images/newRobloxPfp.png" alt="axiliquint">
+        <h1 class="ml-4 mt-1.5 text-xl text-white font-semibold">axiliquint</h1></a>
         <div class="sm:hidden">
             <button @click="isOpen = !isOpen" type="button" class="block text-gray-500 hover:text-white focus:text-white focus:outline-none">
             <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24">

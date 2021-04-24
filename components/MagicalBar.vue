@@ -12,6 +12,6 @@ export default {
 
 <style>
 .magical-bg {
-    background-image: linear-gradient(94.75deg, #00D1F7 0%,#438DFC 100%);
+    background-image: linear-gradient(94.75deg, #00D7FF 0%,#005AFF 100%);
 }
 </style>
