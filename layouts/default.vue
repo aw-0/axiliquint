@@ -26,10 +26,10 @@ export default {
     -webkit-background-clip:text;
     background-clip:text;
     background-image:linear-gradient(to right,var(--gradient-color-stops));
-    --gradient-from-color: #00D1F7;
+    --gradient-from-color: #00D7FF;
     --gradient-color-stops: var(--gradient-from-color), var(--gradient-to-color, rgba(90, 103, 216, 0));
     --gradient-via-color: #0091ff;
     --gradient-color-stops: var(--gradient-from-color), var(--gradient-via-color), var(--gradient-to-color, rgba(213, 63, 140, 0));
-    --gradient-to-color: #438DFC
+    --gradient-to-color: #005AFF
 }
 </style>
