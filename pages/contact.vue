@@ -31,6 +31,7 @@
                 </div>
             </div>
         </div>
+        <FooterWave style="margin-top: 0.1px" />
     </div>
 </template>
 
