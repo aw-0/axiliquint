@@ -13,20 +13,21 @@
                 <p class="text-center text-white">My time is valuable, and I'm sure yours is too. Don't bother requesting me for non-serious projects.</p>
             </div>
             <MagicalBar class="mb-4" />
-            <div class="w-full mx-auto">
+            <div class="mx-auto">
                 <h1 class="text-2xl text-center text-white font-semibold mb-4">Ways to Contact</h1>
                 <div class="sm:flex items-center justify-center mt-5">
-                    <a href="https://twitter.com/axiliquint" target="_blank" class="px-5 py-3 border border-transparent rounded-md mx-2" style="background: #1c95de">
-                        <p class="text-white font-medium"><i class="fab fa-twitter"></i> DM me on Twitter</p>
+                    <a href="https://twitter.com/axiliquint" target="_blank" class="px-5 py-3 border border-transparent text-base rounded-md sm:mx-2 text-white font-medium" style="background: #1c95de">
+                        <i class="fab fa-twitter"></i> DM me on Twitter
                     </a>
-                    <div class="py-2 sm:py-0"></div>
-                    <a href="#" class="px-5 py-3 border border-transparent rounded-md mx-2 " style="background: #7289DA">
-                        <p target="_blank" class="text-white font-medium"><i class="fab fa-discord"></i> Talk with me on Discord</p>
+                    <div class="my-8 sm:my-0"></div>
+                    <a href="#" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7289DA">
+                        <i class="fab fa-discord"></i> Talk with me on Discord
                     </a>
-                    <a class="py-2 sm:py-0"></a>
-                    <a href="mailto:andrew@koal.us" class="px-5 py-3 border border-transparent rounded-md mx-2 " style="background: #7F7F7F">
-                        <p class="text-white font-medium" style="background: #747474"><i class="fas fa-envelope"></i> Email me</p>
+                    <div class="my-8 sm:my-0"></div>
+                    <a href="mailto:andrew@koal.us" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7F7F7F">
+                        <i class="fas fa-envelope"></i> Email me
                     </a>
+                    <div class="mb-8 sm:my-0"></div>
                 </div>
             </div>
         </div>

@@ -60,6 +60,7 @@ export default {
     ],
     script: [
       { src: 'https://kit.fontawesome.com/f2775ba51e.js', crossorigin: 'anonymous', async: true},
+      { src: 'https://cdn.panelbear.com/analytics.js?site=3jh78gth4tH', async: true }
     ]
   },
 
@@ -76,6 +77,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/panelbear.client.js'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

@@ -24,7 +24,7 @@
           <div class="mx-4 bg-blue-500 rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
               <a href="https://firebase.google.com" target="_blank"><p class="mx-auto"><img src="@/assets/images/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p></a>
               <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">Firebase</h1>
-              <p class="px-2 pt-2 text-white text-center m-auto">The PaaS and DBaaS I'm using <br>for this site, Firebase</p>
+              <p class="px-2 pt-2 text-white text-center m-auto">The PaaS I'm using <br>for this site, Firebase</p>
           </div>
           <div class="mb-4 sm:mb-0"></div>
           <div class="mx-4 bg-blue-500 rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
