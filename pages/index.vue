@@ -2,7 +2,7 @@
   <div id="hi there inspect-elementer">
     <div class="px-8">
       <div class="w-full mx-auto text-left mt-10">
-        <h1 class="text-4xl text-white font-extrabold">👋 Hi there, nice to meet you.</h1>
+        <h1 class="text-4xl text-white font-extrabold">👋 Hi there, nice to meet you!</h1>
         <h2 class="text-3xl text-white font-semibold mt-4">I'm axiliquint, a <span class="font-extrabold magical-gradient">Full-Stack Developer and Video Editor</span>.</h2>
       </div>
       <MagicalBar class="mb-4" />
