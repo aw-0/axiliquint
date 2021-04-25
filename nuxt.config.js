@@ -18,15 +18,17 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { name: 'title', content: 'axiliquint' },
+      { name: 'og:title', content: 'axiliquint' },
       { name: 'og:description', content: 'Meet axiliquint, a Full Stack Web Developer and Video Editor.' },
       { name: 'og:url', content: 'https://axiliquint.vercel.app' },
-      { name: 'og:image', content: '/favicons/favicon-180.png'},
+      { name: 'og:image', content: '/favicons/favicon-180-precomposed.png'},
       { name: 'theme-color', content: '#00D6FF' },
       { name: 'twitter:name', content: 'axiliquint' },
       { name: 'twitter:description', content: 'Meet axiliquint, a Full Stack Web Developer and Video Editor.' },
       { name: 'twitter:url', content: 'https://axiliquint.vercel.app' },
       // For IE10 Metro
-      { name: 'msapplication-TitleImage', content: '/favicons/favicon-144.png' },
+      { name: 'msapplication-TitleImage', content: '/favicons/favicon-180-precomposed.png' },
     ],
     link: [
       // Old IEs
