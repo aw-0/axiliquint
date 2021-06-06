@@ -15,7 +15,7 @@
         <nav :class="[isOpen ? 'block' : 'hidden']" class="sm:block">
             <div class="px-2 pt-2 pb-4 sm:flex sm:p-0">
                 <a href="/" class="block px-2 py-1 text-white font-semibold rounded hover:bg-gray-700"><i class="fas fa-home" style="size:14px"></i> Home</a>
-                <a href="/clients" class="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-700 sm:mt-0 sm:ml-2"><i class="fas fa-users" style="size:14px"></i> Clients</a>
+                <a href="/clients" class="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-700 sm:mt-0 sm:ml-2"><i class="fas fa-users" style="size:14px"></i> View Clients</a>
                 <a href="/contact" class="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-700 sm:mt-0 sm:ml-2"><i class="fas fa-paper-plane" style="size:14px"></i> Contact</a>
             </div>
         </nav>
