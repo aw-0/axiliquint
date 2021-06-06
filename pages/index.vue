@@ -22,7 +22,7 @@
           </div>
           <div class="mb-4 sm:mb-0"></div>
           <div class="mx-4 bg-blue-500 rounded sm:rounded-xl shadow hover:shadow-xl focus:outline-none px-4 py-2">
-              <a href="https://firebase.google.com" target="_blank" rel="noopener"><p class="mx-auto"><img alt="Firebase Logo" src="@/assets/images/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p></a>
+              <a href="https://firebase.google.com" target="_blank" rel="noopener"><p class="mx-auto"><nuxt-img alt="Firebase Logo" src="@/static/images/firebase.svg" width="250px" height="100px" class="mx-auto object-fill" /></p></a>
               <h1 class="px-2 pt-2 font-semibold text-white text-center m-auto">Firebase</h1>
               <p class="px-2 pt-2 text-white text-center m-auto">Firebase is my choice for databases and more</p>
           </div>
@@ -38,8 +38,8 @@
       <div class="w-full mx-auto">
         <h1 class="text-2xl text-center text-white font-semibold mb-4">Contributed to 400,000,000+ Visits and 1,000,000 Customers</h1>
         <div class="sm:flex items-center justify-center">
-          <a href="https://www.roblox.com/groups/3955051/Foxzies-Productions#!/about" target="_blank" rel="noopener" class="sm:mx-auto lg:mx-4"><img alt="Foxzie's Productions Logo" src="@/assets/clients/foxzie.webp" width="200px" height="150px" class="mt-4 px-4 py-2 mx-auto text-white"/></a>
-          <a href="https://koal.us" target="_blank" rel="noopener" class="sm:mx-auto lg:mx-4"><img alt="Koal Logo" src="@/assets/clients/koal.svg" width="200px" height="150px" class="svg-white mt-4 px-4 py-2 mx-auto text-white"/></a>
+          <a href="https://www.roblox.com/groups/3955051/Foxzies-Productions#!/about" target="_blank" rel="noopener" class="sm:mx-auto lg:mx-4"><nuxt-img alt="Foxzie's Productions Logo" src="@/static/clients/foxzie.webp" width="200px" height="150px" class="mt-4 px-4 py-2 mx-auto text-white" /></a>
+          <a href="https://koal.us" target="_blank" rel="noopener" class="sm:mx-auto lg:mx-4"><nuxt-img alt="Koal Logo" src="@/static/clients/koal.svg" width="200px" height="150px" class="svg-white mt-4 px-4 py-2 mx-auto text-white" /></a>
         </div>
       </div>
       <MagicalBar class="mb-4" />
