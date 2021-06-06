@@ -20,9 +20,8 @@
                         <i class="fab fa-twitter"></i> DM me on Twitter
                     </a>
                     <div class="my-8 sm:my-0"></div>
-                    <a href="#" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7289DA">
-                        <i class="fab fa-discord"></i> Talk with me on Discord
-                    </a>
+                    <button @click="changeDiscBtnText" v-html="discButtonText" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7289DA">
+                    </button>
                     <div class="my-8 sm:my-0"></div>
                     <a href="mailto:andrew@koal.us" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7F7F7F">
                         <i class="fas fa-envelope"></i> Email me
@@ -37,6 +36,19 @@
 
 <script>
 export default {
+    data(){
+        return {
+            discButtonText: '<i class="fab fa-discord"></i> Talk with me on Discord'
+        }
+    },
+    methods: {
+        changeDiscBtnText(){
+            this.discButtonText = '<i class="fab fa-discord"></i> Add me: <p class="font-extrabold font-blue-500">and#1000</p>'
+        },
+        sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
+    }
 
 }
 </script>
