@@ -23,6 +23,10 @@ export default {
       { name: 'og:description', content: 'Meet axiliquint, a Full Stack Web Developer and Video Editor.' },
       { name: 'og:url', content: 'https://axiliquint.vercel.app' },
       { name: 'og:image', content: '/favicons/favicon-180-precomposed.png'},
+      { name: 'title', content: 'axiliquint' },
+      { name: 'description', content: 'Meet axiliquint, a Full Stack Web Developer and Video Editor.' },
+      { name: 'url', content: 'https://axiliquint.vercel.app' },
+      { name: 'image', content: '/favicons/favicon-180-precomposed.png'},
       { name: 'theme-color', content: '#00D6FF' },
       { name: 'twitter:name', content: 'axiliquint' },
       { name: 'twitter:description', content: 'Meet axiliquint, a Full Stack Web Developer and Video Editor.' },
@@ -105,10 +109,16 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    '@nuxtjs/robots'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
+
+  robots: {
+    UserAgent: '*',
+    Allow: '/'
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
