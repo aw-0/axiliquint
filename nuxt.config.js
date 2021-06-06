@@ -117,7 +117,7 @@ export default {
 
   robots: {
     UserAgent: '*',
-    Allow: '/'
+    Disallow: '/'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
