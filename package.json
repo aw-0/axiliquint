@@ -20,6 +20,6 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "3.4.3"
+    "@nuxtjs/tailwindcss": "4.1.3"
   }
 }
