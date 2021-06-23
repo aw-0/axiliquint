@@ -1381,10 +1381,10 @@
     node-html-parser "^3.2.0"
     ufo "^0.7.4"
 
-"@nuxt/image@0.4.15":
-  version "0.4.15"
-  resolved "https://registry.yarnpkg.com/@nuxt/image/-/image-0.4.15.tgz#2827dad917a35b7cea8a374230afae98524ecb1b"
-  integrity sha512-cVxLDVSajr2y5v6NBL70bytK0sqUE08R+TEO9vmKeQMJ3S7Z/FUs45ZZ7E0t7yzANRzWeieTcg4VAZg3zJrfug==
+"@nuxt/image@0.4.16":
+  version "0.4.16"
+  resolved "https://registry.yarnpkg.com/@nuxt/image/-/image-0.4.16.tgz#54f1130cc9b34af4d1f4dbbd3604d155ddf6adf5"
+  integrity sha512-WRPpwCu4S5TaDeQfLoRnWwGcikHQkDmW6d71flkBDG/MmoUgZxDhFl/GftkywML42+LWqhybLq+YhB8gy3Wejg==
   dependencies:
     defu "^5.0.0"
     fs-extra "^10.0.0"
