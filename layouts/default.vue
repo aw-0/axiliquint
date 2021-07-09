@@ -30,6 +30,7 @@ export default {
     --gradient-color-stops: var(--gradient-from-color), var(--gradient-to-color, rgba(90, 103, 216, 0));
     --gradient-via-color: #0091ff;
     --gradient-color-stops: var(--gradient-from-color), var(--gradient-via-color), var(--gradient-to-color, rgba(213, 63, 140, 0));
-    --gradient-to-color: #005AFF
+    --gradient-to-color: #3B82F6;
+    --gradient-color-stops: var(--gradient-from-color), var(--gradient-to-color, rgba(90, 103, 216, 0));
 }
 </style>
