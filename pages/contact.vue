@@ -23,7 +23,7 @@
                     <button @click="changeDiscBtnText" v-html="discButtonText" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7289DA">
                     </button>
                     <div class="my-8 sm:my-0"></div>
-                    <a href="mailto:andrew@koal.us" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7F7F7F">
+                    <a href="mailto:aw@omg.lol" class="px-5 py-3 border border-transparent rounded-md sm:mx-2 text-white font-medium" style="background: #7F7F7F">
                         <i class="fas fa-envelope"></i> Email me
                     </a>
                     <div class="mb-8 sm:my-0"></div>
